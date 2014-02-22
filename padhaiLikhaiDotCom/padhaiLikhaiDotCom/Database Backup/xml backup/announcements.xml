@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <ANNOUNCE_ID>1001</ANNOUNCE_ID>
+  <SUBJECT>this is our 2nd announcement</SUBJECT>
+  <BODY>blah2 blah2 blah2 blah2 blah2 blah2 blah2 blah2 blah2 </BODY>
+  <ANNOUNCER_ID_FOREIGN>1000000006</ANNOUNCER_ID_FOREIGN>
+ </ROW>
+ <ROW>
+  <ANNOUNCE_ID>1002</ANNOUNCE_ID>
+  <SUBJECT>this is our 3rd announcement</SUBJECT>
+  <BODY>blah3 blah3 blah3 blah3 blah3 blah3 blah3 blah3 blah3 blah3 blah3 </BODY>
+  <ANNOUNCER_ID_FOREIGN>1000000006</ANNOUNCER_ID_FOREIGN>
+ </ROW>
+ <ROW>
+  <ANNOUNCE_ID>1005</ANNOUNCE_ID>
+  <SUBJECT>muhahaha(evil laughter)</SUBJECT>
+  <BODY>qwetryuiosdghkjlxcvbnmsdfghj
+wertuiodfghkjl
+sdfghjkl
+dfghjk
+fghj
+fgh
+</BODY>
+  <ANNOUNCER_ID_FOREIGN>1000000006</ANNOUNCER_ID_FOREIGN>
+ </ROW>
+ <ROW>
+  <ANNOUNCE_ID>1000</ANNOUNCE_ID>
+  <SUBJECT>this is our first announcement</SUBJECT>
+  <BODY>blah blah blah blah blah</BODY>
+  <ANNOUNCER_ID_FOREIGN>1000000006</ANNOUNCER_ID_FOREIGN>
+ </ROW>
+ <ROW>
+  <ANNOUNCE_ID>1003</ANNOUNCE_ID>
+  <SUBJECT>this is our 4th NNOUNCEMENT</SUBJECT>
+  <BODY>blah4 blah4 blah4 blah4 blah4 blah4 blah4 blah4 blah4 blah4 blah4 blah4 
+</BODY>
+  <ANNOUNCER_ID_FOREIGN>1000000006</ANNOUNCER_ID_FOREIGN>
+ </ROW>
+ <ROW>
+  <ANNOUNCE_ID>1004</ANNOUNCE_ID>
+  <SUBJECT>5th comment</SUBJECT>
+  <BODY>asjhbsdcvbxmcbxzmxcbzklxjcb</BODY>
+  <ANNOUNCER_ID_FOREIGN>1000000006</ANNOUNCER_ID_FOREIGN>
+ </ROW>
+ <ROW>
+  <ANNOUNCE_ID>1006</ANNOUNCE_ID>
+  <SUBJECT>i m chunni</SUBJECT>
+  <BODY>hahahahahahaha</BODY>
+  <ANNOUNCER_ID_FOREIGN>1000000006</ANNOUNCER_ID_FOREIGN>
+ </ROW>
+ <ROW>
+  <ANNOUNCE_ID>1007</ANNOUNCE_ID>
+  <SUBJECT>chunni</SUBJECT>
+  <BODY>qwertyuiopasdfghjkxcvbnm</BODY>
+  <ANNOUNCER_ID_FOREIGN>1000000006</ANNOUNCER_ID_FOREIGN>
+ </ROW>
+ <ROW>
+  <ANNOUNCE_ID>1008</ANNOUNCE_ID>
+  <SUBJECT>qqqqqqqqqqqqqqqqq</SUBJECT>
+  <BODY>nfsndbvmansdb</BODY>
+  <ANNOUNCER_ID_FOREIGN>1000000006</ANNOUNCER_ID_FOREIGN>
+ </ROW>
+</ROWSET>

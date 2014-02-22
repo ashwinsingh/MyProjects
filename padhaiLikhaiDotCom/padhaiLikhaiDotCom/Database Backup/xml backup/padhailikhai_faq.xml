@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <QUESTIONS>who is the best student</QUESTIONS>
+  <ANSWERS>rajnikant</ANSWERS>
+ </ROW>
+ <ROW>
+  <QUESTIONS>how many students study at ur institution??</QUESTIONS>
+  <ANSWERS>6.023*10^23</ANSWERS>
+ </ROW>
+ <ROW>
+  <QUESTIONS>what is the speed at which courses are taught??</QUESTIONS>
+  <ANSWERS>3*10^8 m/sec</ANSWERS>
+ </ROW>
+</ROWSET>

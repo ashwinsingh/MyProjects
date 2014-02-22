@@ -1,0 +1,13 @@
+<?php
+session_start();
+if(isset($_SESSION['userid']))
+{if($_SESSION['usertype']=="student")
+{$_SESSION['progressid']=$_SESSION['userid'];
+$redirection_url="report_display.php";
+}
+else
+{$redirection_url="faculty_progress_report.php";
+}
+header("Location:$redirection_url");
+}
+?>

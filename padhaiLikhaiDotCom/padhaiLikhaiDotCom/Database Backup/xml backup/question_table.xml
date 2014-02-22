@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <TESTID_FOREIGN>100</TESTID_FOREIGN>
+  <QUESTION>what does iostream.h stand for?</QUESTION>
+  <OPT1>in-out stream</OPT1>
+  <OPT2>input-out stream</OPT2>
+  <OPT3>in-output stream</OPT3>
+  <OPT4>input-output stream</OPT4>
+  <CORRECTANSWER>4</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>100</TESTID_FOREIGN>
+  <QUESTION>what does stdio.h stand for</QUESTION>
+  <OPT1>standard in-out</OPT1>
+  <OPT2>standard input output</OPT2>
+  <OPT3>standard in output</OPT3>
+  <OPT4>standard input out</OPT4>
+  <CORRECTANSWER>2</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>101</TESTID_FOREIGN>
+  <QUESTION>http stands for??</QUESTION>
+  <OPT1>hyperbola transfer protocol</OPT1>
+  <OPT2>hypertext transferable protocol</OPT2>
+  <OPT3>hyper text transfer protocol</OPT3>
+  <OPT4>hyper text transmission protocol</OPT4>
+  <CORRECTANSWER>3</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>101</TESTID_FOREIGN>
+  <QUESTION>snmp stands for</QUESTION>
+  <OPT1>simple network management protocol</OPT1>
+  <OPT2>simple network making protocol</OPT2>
+  <OPT3>sample network management protocol</OPT3>
+  <OPT4>simplest nerwork management protocol</OPT4>
+  <CORRECTANSWER>1</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>100</TESTID_FOREIGN>
+  <QUESTION>what does conio.h stand for?</QUESTION>
+  <OPT1>console in out</OPT1>
+  <OPT2>console in output</OPT2>
+  <OPT3>console input</OPT3>
+  <OPT4>console input output</OPT4>
+  <CORRECTANSWER>4</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>101</TESTID_FOREIGN>
+  <QUESTION>ftp stands for</QUESTION>
+  <OPT1>file transmission protocol</OPT1>
+  <OPT2>first transfer protocol</OPT2>
+  <OPT3>file transfer problem</OPT3>
+  <OPT4>file transfer protocol</OPT4>
+  <CORRECTANSWER>4</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>102</TESTID_FOREIGN>
+  <QUESTION>Oracle&apos;s client side interphase is...</QUESTION>
+  <OPT1>oracle 10g express edition</OPT1>
+  <OPT2>oracle 11i express edition</OPT2>
+  <OPT3>oracle database driver</OPT3>
+  <OPT4>oracle instant client </OPT4>
+  <CORRECTANSWER>4</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>102</TESTID_FOREIGN>
+  <QUESTION>javascript is a</QUESTION>
+  <OPT1>server side scripting language</OPT1>
+  <OPT2>client side scripting language</OPT2>
+  <OPT3>shell scripting language</OPT3>
+  <OPT4>none of these</OPT4>
+  <CORRECTANSWER>2</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>100</TESTID_FOREIGN>
+  <QUESTION>what does fstream stand for?</QUESTION>
+  <OPT1>full stream</OPT1>
+  <OPT2>fast stream</OPT2>
+  <OPT3>file stream</OPT3>
+  <OPT4>fake stream</OPT4>
+  <CORRECTANSWER>3</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>101</TESTID_FOREIGN>
+  <QUESTION>smtp stands for</QUESTION>
+  <OPT1>simple mail transfer protocol</OPT1>
+  <OPT2>simplest mail transfer protocol</OPT2>
+  <OPT3>simple message transfer protocol</OPT3>
+  <OPT4>simple mail transmission protocol</OPT4>
+  <CORRECTANSWER>1</CORRECTANSWER>
+ </ROW>
+ <ROW>
+  <TESTID_FOREIGN>102</TESTID_FOREIGN>
+  <QUESTION>what is AJAX?</QUESTION>
+  <OPT1>asynchronous javascript and xml</OPT1>
+  <OPT2>advanced javascript and xml</OPT2>
+  <OPT3>asynchronous java and xml</OPT3>
+  <OPT4>advanced java and xml</OPT4>
+  <CORRECTANSWER>1</CORRECTANSWER>
+ </ROW>
+</ROWSET>

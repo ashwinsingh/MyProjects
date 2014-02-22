@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <SUBJECT_ID>880001</SUBJECT_ID>
+  <SUBJECTNAME>principles of programming languages</SUBJECTNAME>
+ </ROW>
+ <ROW>
+  <SUBJECT_ID>880002</SUBJECT_ID>
+  <SUBJECTNAME>datastuctures using c</SUBJECTNAME>
+ </ROW>
+ <ROW>
+  <SUBJECT_ID>880004</SUBJECT_ID>
+  <SUBJECTNAME>english literature</SUBJECTNAME>
+ </ROW>
+ <ROW>
+  <SUBJECT_ID>880005</SUBJECT_ID>
+  <SUBJECTNAME>european history</SUBJECTNAME>
+ </ROW>
+ <ROW>
+  <SUBJECT_ID>880003</SUBJECT_ID>
+  <SUBJECTNAME>java programming</SUBJECTNAME>
+ </ROW>
+ <ROW>
+  <SUBJECT_ID>880006</SUBJECT_ID>
+  <SUBJECTNAME>ayurveda</SUBJECTNAME>
+ </ROW>
+</ROWSET>
